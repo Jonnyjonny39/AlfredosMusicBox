@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroundformusicfragmentfredoapp"
+    tools:context=".MusicFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <ImageButton
+        android:id="@+id/youTubeImageBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="195dp"
+        android:background="@android:color/background_light"
+        android:src="@drawable/youtubeiconforfredoapp" />
+
+    <ImageButton
+        android:id="@+id/sCloudImageBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="111dp"
+        android:background="@android:color/black"
+        android:src="@drawable/scloudiconforfredoapp" />
+
+    <Button
+        android:id="@+id/gigBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_gravity="bottom"
+        android:background="@android:color/holo_red_dark"
+        android:text="@string/gig_btn"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+
+    <ImageButton
+        android:id="@+id/fBookBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="22dp"
+        android:background="@android:color/holo_blue_dark"
+        android:src="@drawable/fbookiconforfredoapp" />
+
+    <ImageButton
+        android:id="@+id/instaImageBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="109dp"
+        android:background="@android:color/background_dark"
+        android:cropToPadding="false"
+        android:src="@drawable/instagramforfredoapp" />
+
+</RelativeLayout>

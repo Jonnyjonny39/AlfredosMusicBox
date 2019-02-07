@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Alfredo\'s MusicBox</string>
+    <string name="welcome_string">Welcome To Alfredo\'s MusicBox!</string>
+    <string name="enter_string">Enter The MusicBox!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="aboutme_string">Alfredo Guerrieri</string>
+    <string name="aboutMeText">
+        One of the most versatile and sought after bassists in the Cleveland area, Alfredo was convinced to pick up the electric bass at his best friend’s insistence.  After years of playing bass mostly as a hobby, Alfredo left to pursue music academically at the Musician’s Institute in Los Angeles, California in 2003 where he received his degree in Bass Performance.  He studied under many great talents such as Christopher Maloney, Brian Allen, Alexis Sklarevski, Mike Mennell, Oneida James, and Putter Smith.
+Shortly after finishing his studies, he was awarded the Berklee World Scholarship, awarded by the Berklee College of Music to the most promising young talent around the globe.  He then began his studies at Berklee in Boston where he graduated with a Bachelor’s Degree in Music.  He studied at Berklee with greats such as Oscar Stagnaro, Anthony Vitti, and Bruce Gertz.  Also while attending Berklee, he was awarded the Berklee Achievement Scholarship and the Henry Grossman Scholarship for Music Business.Since moving to Cleveland, Alfredo has gotten involved heavily in the music scene.  He is currently a freelance electric and double bassist and has worked with the following array of artists:
+International Drummer Bill Ransom (Beth Hart, Gerald Levert)
+Guitarist Tony Pullizzi (American Idol, Natalie Cole, Gladys Knight)
+Drummer Chad Szeliga (Breaking Benjamin, Black Label Society)
+Vocalist Mary Bridget Davies (Tony award nominee, “A Night with Janis Joplin”)
+Vocalist Heather Headley (Tony award and Grammy award winner)
+Windridge Records Country Artist Levi Riggs
+Heads Up Recording Artist Joe McBride
+Fusion Group Audible Distraction
+Jazz Guitarist Dan Wilson (Joey DeFrancesco, Christian McBride)
+Smooth Jazz Artist Keith McKelley (Usher)
+Leta Records Recording Artist The Speedbumps
+Cleveland Scene Magazine Singer of the Year Brent Kirby
+Baldwin Wallace University Production of Anything Goes
+Sombrero Brother’s Production of Nightmare Before Christmas
+Cleveland Playhouse Productions of Five Guys Named Moe and Freaky Friday at the Allen Theater
+Alfredo has also gotten involved in music education.  He is currently teaching at the following locations:
+Cleveland State University in Cleveland, OH (adjunct faculty, Electric Bass and Upright Bass)
+The Music Settlement in Cleveland, OH (Rock and Blues Department Head, J@MS Combo, Private Instructor of guitar and electric bass)
+Montessori High School University Circle (Rock and Blues Academy, IB Music)
+Fine Arts Association in Willoughby, OH (guitar, electric and double bass, piano)
+Alfredo also recently graduated from Cleveland State University with a Master’s degree in Jazz Performance/Acoustic Bass.
+Currently you can find Alfredo playing bass on tour around the U.S. with various groups, freelancing studio and live gigs around the Cleveland area, teaching music, and practicing any minute he has free. Alfredo is also a proud endorsee of SIT Strings.
+    </string>
+    <string name="gig_btn">Tap To See Where I\'m Playing!</string>
+    <string name="alfredo_name">Alfredo Guerrieri</string>
+    <string name="thank_you_string">Thank You So Much For Checking Out My App! Please Feel Free To Contact Me Anytime!</string>
+    <string name="fredo_email">CONTACT ALFREDO   Email: alfredo.guerrieri@gmail.com</string>
+    <string name="website_link">http://www.alfredosgroove.com</string>
+    <string name="web_link">www.alfredosgroove.com</string>
+</resources>
